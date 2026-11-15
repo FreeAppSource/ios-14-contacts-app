@@ -1,0 +1,29 @@
+{
+ "app": "iOS 14 Contacts App",
+ "start": "light-mode",
+ "screens": [
+  {
+   "slug": "dark-mode",
+   "name": "Dark mode",
+   "page": "\ud83c\udfe0 Home ",
+   "w": 414,
+   "h": 896,
+   "elements": 134,
+   "links": 2
+  },
+  {
+   "slug": "light-mode",
+   "name": "Light Mode",
+   "page": "\ud83c\udfe0 Home ",
+   "w": 414,
+   "h": 896,
+   "elements": 134,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "nunito"
+ ]
+}
